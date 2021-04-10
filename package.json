@@ -1,0 +1,26 @@
+{
+    "name": "vscode-better-markdown-support-extension-pack",
+    "displayName": "Better Markdown Extension Pack",
+    "description": "Markdown extensions to write markdown file easily.",
+    "publisher": "gquittet",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-markdown-support-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-markdown-support-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "DavidAnson.vscode-markdownlint",
+        "goessner.mdmath",
+        "yzhang.markdown-all-in-one"
+    ]
+}
