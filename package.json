@@ -21,7 +21,9 @@
     "extensionPack": [
         "DavidAnson.vscode-markdownlint",
         "goessner.mdmath",
+        "vscode.markdown",
         "vscode.markdown-language-features",
+        "vscode.notebook-markdown-extensions",
         "yzhang.markdown-all-in-one"
     ]
 }
