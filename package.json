@@ -3,7 +3,7 @@
     "displayName": "Better Markdown Extension Pack",
     "description": "Markdown extensions to write markdown file easily.",
     "publisher": "gquittet",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git@github.com:gquittet/vscode-better-markdown-support-extension-pack.git"
